@@ -14,3 +14,7 @@ The PDF Q&A Application is a tool that allows users to upload a PDF document, as
 - **Custom Instructions**: Users can provide custom instructions for how the answers should be formatted.
 - **Parallel Processing**: Questions are processed in parallel for faster response times.
 - **Confidence Scoring**: Answers are evaluated for confidence, and low-confidence answers are flagged.
+
+## Access the Application
+
+This app is hosted on HuggingFace Spaces. You can access it [here](https://huggingface.co/spaces/JithinVijayDazz/pdf-qna).
