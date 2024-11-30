@@ -19,7 +19,7 @@ def read_pdf(file_path):
             text += reader.pages[page_num].extract_text()
     return text
 
-def chunk_text(text, chunk_size=1000, chunk_overlap=250):
+def chunk_text(text, chunk_size=2000, chunk_overlap=500):
     """
     Split text into chunks using RecursiveCharacterTextSplitter.
 
